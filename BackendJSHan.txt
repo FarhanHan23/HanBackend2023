@@ -1,2 +1,5 @@
 Belajar Basic Javascript WPU target bulan Agustus sudah selesai
 Belajar Github dan Webpack 1 minggu di bulan September
+Minggu 2 September fokus Nodejs WPU
+Minggu 3 September Express JS 
+Minggu 4 Mongodb
